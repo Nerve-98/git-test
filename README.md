@@ -5,3 +5,4 @@ non-fast forward - head에 commit된 것이 있고, branch를 merge 할 때 non-fast forw
 
 meaningless
 stash
+3
